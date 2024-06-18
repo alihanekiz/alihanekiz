@@ -1,4 +1,4 @@
-Hey there, I'm a 25 year old developer from Austria 🇦🇹. 
+Arise, you have nothing to lose but your barbed wire fences!
 
 <!---
 alihanekiz/alihanekiz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
